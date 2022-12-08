@@ -4,5 +4,26 @@
   "artist": "Maruyama Tomowo",
   "author": "Tanaka Yuu",
   "cover": "https://mangadex.org/covers/77fd8118-61b0-4b1f-95a6-2b839d754f81/841e340a-3bc2-44ba-8bc0-4442b36f47cb.jpg",
-  "chapters": {}
+  "chapters": {
+    "61": {
+      "title": "The Commercial City of Barbra",
+      "volume": "13",
+      "last_updated": "1667924280",
+      "groups": {
+        "FranscurryTL": [
+          "https://imgur.com/a/4R07G4F"
+        ]
+      }
+    },
+    "62": {
+      "title": "Iron Claw",
+      "volume": "13",
+      "last_updated": "1669796520",
+      "groups": {
+        "FranscurryTL": [
+          "https://imgur.com/a/KGdnhKP"
+        ]
+      }
+    }
+  }
 }
