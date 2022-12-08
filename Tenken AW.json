@@ -10,7 +10,7 @@
       "volume": "3",
       "last_updated": "1661406900",
       "groups": {
-        "FranscurryTL": "/proxy/api/imgur/t257vgd"
+        "FranscurryTL": "/proxy/api/imgur/chapter/t257vgd"
       }
     },
     "11": {
@@ -18,9 +18,7 @@
       "volume": "3",
       "last_updated": "1662272940",
       "groups": {
-        "FranscurryTL": [
-          "https://imgur.com/a/paLswrZ"
-        ]
+        "FranscurryTL": "/proxy/api/imgur/chapter/paLswrZ"
       }
     },
     "12": {
@@ -28,9 +26,7 @@
       "volume": "3",
       "last_updated": "1664908440",
       "groups": {
-        "FranscurryTL": [
-          "https://imgur.com/a/moEiqfs"
-        ]
+        "FranscurryTL": "/proxy/api/imgur/chapter/moEiqfs"
       }
     },
     "13": {
@@ -38,9 +34,7 @@
       "volume": "3",
       "last_updated": "1669370760",
       "groups": {
-        "FranscurryTL": [
-          "https://imgur.com/a/mHzt2Ix"
-        ]
+        "FranscurryTL": "https://imgur.com/a/mHzt2Ix"
       }
     },
     "14": {
@@ -48,9 +42,7 @@
       "volume": "3",
       "last_updated": "1669839900",
       "groups": {
-        "FranscurryTL": [
-          "https://imgur.com/a/J9SE26R"
-        ]
+        "FranscurryTL": "/proxy/api/imgur/chapter/J9SE26R"
       }
     },
     "14.5": {
@@ -58,9 +50,7 @@
       "volume": "3",
       "last_updated": "1670400000",
       "groups": {
-        "FranscurryTL": [
-          "https://imgur.com/a/2QourSE"
-        ]
+        "FranscurryTL": "/proxy/api/imgur/chapter/2QourSE"
       }
     }
   }
