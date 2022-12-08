@@ -8,10 +8,20 @@
     "10": {
       "title": "Habuff",
       "volume": "3",
+      "last_updated": "1661406900",
       "groups": {
         "FranscurryTL": "https://imgur.com/a/t257vgd"
-      },
-      "last_updated": "1661406900"
+      }
+    },
+    "11": {
+      "title": "Road to Diva ～Introduction～",
+      "volume": "3",
+      "last_updated": "1662272940",
+      "groups": {
+        "FranscurryTL": [
+          "https://imgur.com/a/paLswrZ"
+        ]
+      }
     }
   }
 }
