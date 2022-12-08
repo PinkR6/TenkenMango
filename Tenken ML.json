@@ -10,9 +10,7 @@
       "volume": "13",
       "last_updated": "1667924280",
       "groups": {
-        "FranscurryTL": [
-          "https://imgur.com/a/4R07G4F"
-        ]
+        "FranscurryTL": "/proxy/api/imgur/chapter/4R07G4F"
       }
     },
     "62": {
@@ -20,9 +18,7 @@
       "volume": "13",
       "last_updated": "1669796520",
       "groups": {
-        "FranscurryTL": [
-          "https://imgur.com/a/KGdnhKP"
-        ]
+        "FranscurryTL": "/proxy/api/imgur/chapter/KGdnhKP"
       }
     }
   }
