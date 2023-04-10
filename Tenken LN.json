@@ -1,0 +1,129 @@
+{
+  "title": "Tenken LN",
+  "description": "Covers, Illustrations and Omakes from the light novel",
+  "artist": "Llo",
+  "author": "Yuu Tanaka",
+  "cover": "https://i.imgur.com/YPm4iKE.jpg",
+  "chapters": {
+    "1": {
+      "title": "Volume 1",
+      "volume": "1",
+      "last_updated": "1681104731",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/L3IvFHZ"
+      }
+    },
+    "2": {
+      "title": "Volume 2",
+      "volume": "2",
+      "last_updated": "1681106159",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/UrX5BFX"
+      }
+    },
+    "3": {
+      "title": "Volume 3",
+      "volume": "2",
+      "last_updated": "1681106168",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/stuypoj"
+      }
+    },
+    "4": {
+      "title": "Volume 4",
+      "volume": "4",
+      "last_updated": "1681106189",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/dfG5jnt"
+      }
+    },
+    "5": {
+      "title": "Volume 5",
+      "volume": "5",
+      "last_updated": "1681106282",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/iI8QR6X"
+      }
+    },
+    "6": {
+      "title": "Volume 6",
+      "volume": "6",
+      "last_updated": "1681106307",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/7veYpfU"
+      }
+    },
+    "7": {
+      "title": "Volume 7",
+      "volume": "7",
+      "last_updated": "1681106377",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/z39uDYr"
+      }
+    },
+    "8": {
+      "title": "Volume 8",
+      "volume": "8",
+      "last_updated": "1681106393",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/WnFSk24"
+      }
+    },
+    "9": {
+      "title": "Volume 9",
+      "volume": "9",
+      "last_updated": "1681106462",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/FbR5zXV"
+      }
+    },
+    "10": {
+      "title": "Volume 10",
+      "volume": "10",
+      "last_updated": "1681106494",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/TsMvx6K"
+      }
+    },
+    "11": {
+      "title": "Volume 11",
+      "volume": "11",
+      "last_updated": "1681106557",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/IMe07TL"
+      }
+    },
+    "12": {
+      "title": "Volume 12",
+      "volume": "12",
+      "last_updated": "1681106570",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/Kw4hWzV"
+      }
+    },
+    "13": {
+      "title": "Volume 13",
+      "volume": "13",
+      "last_updated": "1681107475",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/JsSEyMp"
+      }
+    },
+    "14": {
+      "title": "Volume 14",
+      "volume": "14",
+      "last_updated": "1681107489",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/RVqSwOr"
+      }
+    },
+    "15": {
+      "title": "Volume 15",
+      "volume": "15",
+      "last_updated": "1681107551",
+      "groups": {
+        "FranscurryTL": "/proxy/api/imgur/chapter/sLI7LUU"
+      }
+    }
+  }
+}
