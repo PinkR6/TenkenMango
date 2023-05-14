@@ -4,5 +4,14 @@
   "artist": "Namagaki Yukina",
   "author": "Namagaki Yukina",
   "cover": "https://pbs.twimg.com/media/FwAD9BdaMAEN-kb?format=jpg&name=large",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Come to Life! Little Princess",
+      "volume": "",
+      "last_updated": "1684093565",
+      "groups": {
+        "Come to Life! Little Princess": "/proxy/api/imgur/chapter/VNLkpQ4"
+      }
+    }
+  }
 }
